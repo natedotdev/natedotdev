@@ -24,9 +24,9 @@ I build **Automation Frameworks**, **Web and Mobile Apps**, and **AI-powered Wor
 ---
 
 ### 💡 Featured Projects
-- 🧪 [**Test Automation Framework**](https://github.com/natedotdev/test-automation-framework) — Tool-agnostic, interface-driven automation design  
-- 🌱 [**MyReligion App**](https://github.com/natedotdev/Myreligion) — Church management system (full-stack web)  
-- 📱 **StepHigh Mobile App** — Flutter-based exam prep app with gamification features  
+- 🧪 [**Test Automation Framework**](https://github.com/natedotdev/test-automation-framework): Tool-agnostic, interface-driven automation design  
+- 🌱 [**MyReligion App**](https://github.com/natedotdev/Myreligion): Church management system (full-stack web)  
+- 📱 **StepHigh Mobile App**: Flutter-based exam prep app with gamification features  
 
 ---
 
